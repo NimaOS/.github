@@ -9,6 +9,5 @@ or Telegram: https://t.me/NimaIsTaken
 </h3>
 
 
-<img src="https://media.mstdn.social/media_attachments/files/110/803/674/638/604/367/small/d015429240097798.png">
-<img src="https://media.mstdn.social/media_attachments/files/110/927/984/912/892/675/small/9acac30887466b7b.png">
-<img src="https://media.mstdn.social/media_attachments/files/110/927/986/816/131/691/small/9fd1215d83164732.png">
+<img src="https://media.mstdn.social/media_attachments/files/110/803/674/638/604/367/original/d015429240097798.png">
+<img src="https://media.mstdn.social/media_attachments/files/110/927/986/816/131/691/original/9fd1215d83164732.png">
