@@ -1,5 +1,5 @@
 <h3>
-Hey! This is the repo of a WIP GNU/Linux distro named NimaOS :)
+Hey! This is the Github page of a WIP GNU/Linux distro named NimaOS :)
 <br><br>
 (We don't have a logo yet, the logo visible here is my websites logo, smartnima.com)
 <br><br>
