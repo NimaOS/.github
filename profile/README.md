@@ -3,10 +3,11 @@ Hey! This is the Github page of a WIP GNU/Linux distro named NimaOS :)
 <br><br>
 (We don't have a logo yet, the logo visible here is my websites logo, smartnima.com)
 <br><br>
-If you want to help the project, you can contact me in:<br>
+If you want to help with the project, you can contact me at:<br>
 Mastodon: @nima@mstdn.social <br>
 or Telegram: https://t.me/NimaIsTaken<br>
-Or Contribute to the projects i made public here :)
+Or Contribute to the projects I made public here :)<br><br>
+Track the progress with #NimaOS on the Fediverse :)
 </h3>
 
 
