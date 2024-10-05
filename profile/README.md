@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/user-attachments/assets/9b326f99-eabe-45c8-995a-b0cf166853cc"></div>
+
 <h3>
 Hey! This is the Github page of a WIP GNU/Linux distro named NimaOS :)
 <br><br>
