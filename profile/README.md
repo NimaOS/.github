@@ -5,7 +5,7 @@ Hey! This is the Github page of a WIP GNU/Linux distro named NimaOS :)
 <br><br>
 If you want to help with the project, you can contact me at:<br>
 Mastodon: @nima@mstdn.social <br>
-or Telegram: https://t.me/NimaIsTaken<br>
+or Telegram: https://t.me/@Fanniasl<br>
 Or Contribute to the projects I made public here :)<br><br>
 Track the progress with #NimaOS on the Fediverse :)
 </h3>
