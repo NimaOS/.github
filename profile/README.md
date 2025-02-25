@@ -10,6 +10,8 @@ Or Contribute to the projects I made public here :)<br><br>
 Track the progress with #NimaOS on the Fediverse :)
 </h3>
 
+<h2>NimaOS Development Playlist on YouTube: https://www.youtube.com/playlist?list=PLSuTmWBDOsOrVgcr6_QG8I5LQClGxZNfF</h2>
+
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
